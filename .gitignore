@@ -1,0 +1,6 @@
+__pycache__/
+*.pkl
+model.pkl
+encoder.pkl
+Insurance claims data.csv
+
