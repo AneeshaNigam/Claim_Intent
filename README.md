@@ -9,6 +9,10 @@ This project predicts whether an insurance customer is likely to make a claim ba
 - Simple model training using scikit-learn
 - Trained on key features like vehicle age, fuel type, and region
 
+## 🚀 Live Demo
+
+Check out the live app here: [👉 claim-intent.streamlit.app](https://claim-intent.streamlit.app/)
+
 ## 🛠️ Technologies Used
 
 - Python
